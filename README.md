@@ -1,5 +1,7 @@
 # HiLabs Workshop — GenAI Evaluation Framework
 
+For full onboarding instructions, see [SETUP.md](SETUP.md).
+
 An evaluation and reliability framework for a healthcare AI pipeline that processes unstructured medical documents:
 
 ```
